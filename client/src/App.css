@@ -1,0 +1,13 @@
+body {
+  background: #eee;
+}
+
+.jtron{
+  background: url('./img/bookblog_jtrn.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jtron p{
+  color: rgb(44, 1, 16)
+}
