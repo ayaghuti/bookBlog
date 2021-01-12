@@ -1,5 +1,5 @@
 {
-  "MONGO_URI" : "mongodb+srv://ali_yaghuti:ayn1190@cluster0.nghim.mongodb.net/<dbname>?retryWrites=true&w=majority",
-  "jwtSecret": "bb_myjwtSecret"
+  "MONGO_URI" : "mongodb+srv://Your mongoKeys",
+  "jwtSecret": "your jwt keys"
   // "NODE_ENV": "production"
 }
